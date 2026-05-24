@@ -317,6 +317,30 @@ Focus on common mistakes and real-life usage.
 ===
 
 ---
+title: Say It Differently — Vocabulary Expansion
+category: English
+---
+I want to stop repeating the same phrases and learn how native speakers say the same thing in different ways.
+
+Here is the phrase I always use:
+[e.g. "go ahead" / "what can I get you today?" / "I understand" / "let me know"]
+
+Please show me:
+1. **At least 8 alternatives** — from casual to professional
+2. For each one, tell me:
+   - The tone (casual / neutral / warm / formal / playful)
+   - When and where people actually use it (workplace / restaurant / friends / email)
+   - A short example conversation so I can hear it in context
+3. Which ones are common in **Australian English** specifically
+4. Which ones I should **avoid** in certain situations and why
+
+Then quiz me — give me a situation and ask me to pick the best phrase for it.
+
+Correct my English gently if I make mistakes in my replies.
+
+===
+
+---
 title: Bilingual Bedtime Story
 category: English
 ---
