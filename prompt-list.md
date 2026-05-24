@@ -157,6 +157,42 @@ Write a unit test for the function I paste below. Cover the happy path and at le
 ===
 
 ---
+title: Strategic Decision Advisor — Options, Tradeoffs & Roadmap
+category: Coding
+---
+I need you to act as a strategic mentor and advisor — not just answer my question, but help me think clearly and make a well-informed decision.
+
+Here is my situation:
+[describe your project, idea, or problem — e.g. "I have a personal project that does X, and I'm thinking about adding Y"]
+
+Here is what I'm considering or unsure about:
+[describe what's on your mind, even if it's vague]
+
+Your job:
+
+**1. Clarify the real question**
+Restate what I'm actually trying to decide, in clear simple words. Sometimes I don't know exactly what I'm asking.
+
+**2. Map out my realistic options**
+Give me 3–5 concrete directions I could take. Not just obvious ones — include creative or non-obvious paths too.
+
+**3. For each option, tell me:**
+- What it gives me (the upside)
+- What it costs me (effort, time, risk, skill needed)
+- What I might lose or give up (the tradeoff)
+- Who it's best for (what kind of person or situation suits this path)
+
+**4. What information am I missing?**
+Tell me what I should find out before deciding. What would change my decision if I knew it?
+
+**5. Your honest recommendation**
+Based on what I've told you, what would you do and why? Be direct.
+
+Think slowly. Help me see the full picture before I choose.
+
+===
+
+---
 title: Fix My Writing — English Learning Mode
 category: English
 ---
@@ -284,17 +320,17 @@ Focus on common mistakes and real-life usage.
 title: Bilingual Bedtime Story
 category: English
 ---
-Tell me a short, calming bedtime story in simple English.
+Tell me a calming bedtime story in natural English about [topic — ideally something unfamiliar or mildly complex, like ancient civilizations, deep ocean creatures, the history of a random object, or how a natural phenomenon works].
 
-Format:
-- Each sentence in English
-- Then Vietnamese translation right below
+Format the story as a 2-column table:
 
-Keep the story relaxing and about 3–5 minutes long.
+| English | Vietnamese |
+|---|---|
+| Each sentence or short paragraph here. | Bản dịch tiếng Việt tương ứng ở đây. |
 
-After the story:
-- Highlight 5 useful phrases
-- Explain them simply with examples
+Keep the tone slow, quiet, and narration-style — like a documentary whispered at night. Aim for 3–5 minutes of reading time.
+
+After the story, highlight 5 interesting words or phrases and explain them simply.
 
 ===
 
@@ -360,6 +396,8 @@ Help me understand:
 - What creates real understanding vs fake familiarity
 
 Then create a progressive roadmap, practice strategies, and ways to test deep understanding.
+
+Focus on long-term mastery, not short-term memorization.
 
 ===
 
@@ -568,7 +606,7 @@ Create a 1–2 page resume that:
 ===
 
 ---
-title: Interview Generator — Technical + Behavioral from JD & Projects
+title: Interview Generator — Technical + Behavioral
 category: Career
 ---
 You are a senior software engineering interviewer.
@@ -651,5 +689,117 @@ Help me write a short, genuine message to connect with [person/role] in tech.
 Context: [explain who they are and why you're reaching out]
 
 Keep it honest, not salesy. I want to sound like a real person, not a template.
+
+===
+
+---
+title: Reply to Message — Fix My Draft
+category: Communication / Writing
+---
+I need to reply to this message but my draft is too long, over-explained, or sounds unnatural.
+
+**The message I received:**
+[paste the email, LinkedIn message, or text]
+
+**My draft reply or rough idea:**
+[paste your draft — even messy notes or broken sentences are fine]
+
+Please:
+1. Tell me in one sentence what I'm actually trying to say
+2. Rewrite my reply — shorter, natural, appropriate for the situation
+3. Fix my English without changing my meaning
+4. Match the right tone — professional but human, not stiff
+
+If I'm over-explaining something, cut it. If I'm missing something important, point it out. Keep it concise.
+
+===
+
+---
+title: Turn My Rambling Into a Clear Message
+category: Communication / Writing
+---
+I have something I want to say but I can't express it clearly. My thoughts are messy or too long.
+
+**Here is my rambling version:**
+[paste your messy thoughts — bullet points, broken sentences, anything]
+
+Please:
+1. Identify the core message I'm trying to communicate
+2. Rewrite it as one clear, natural paragraph (or short message)
+3. Keep my voice — don't make it sound too formal or corporate
+4. Tell me if anything important is unclear or missing
+
+===
+
+---
+title: Write a Cold Outreach Message
+category: Communication / Writing
+---
+I want to reach out to someone I don't know yet, but I don't want to sound awkward, salesy, or like a template.
+
+**Who I'm contacting:** [recruiter / developer / potential mentor / collaborator / etc.]
+**Where I'm sending it:** [LinkedIn / email / other]
+**Why I'm reaching out:** [explain your reason honestly, even roughly]
+**What I'm hoping for:** [a reply / a coffee chat / advice / a referral / etc.]
+
+Please write a short, genuine message that:
+- Sounds like a real person, not a script
+- Gets to the point quickly
+- Doesn't over-explain or over-sell
+- Leaves the door open without being pushy
+
+===
+
+---
+title: Explain My Idea Clearly
+category: Communication / Writing
+---
+I have an idea or concept I need to explain, but I'm struggling to make it simple and easy to understand.
+
+**My idea (rough version):**
+[describe your idea, even if it's messy or technical]
+
+**Who I'm explaining it to:**
+[non-technical friend / manager / client / interviewer / etc.]
+
+Please:
+1. Rewrite my explanation in clear, simple language for that audience
+2. Remove jargon or replace it with plain words
+3. Use an analogy if it helps
+4. Keep it short — only what they need to understand, nothing extra
+
+===
+
+---
+title: Make This Sound More Confident
+category: Communication / Writing
+---
+I wrote something but it sounds too hesitant, apologetic, or weak. I want it to sound calm and direct — without being rude or aggressive.
+
+**My original version:**
+[paste your text]
+
+Please:
+1. Rewrite it to sound more confident and clear
+2. Remove phrases that sound unsure (like "I was just wondering if maybe...")
+3. Keep my meaning exactly the same
+4. Show me side by side: my version vs your version, so I can learn the difference
+
+===
+
+---
+title: Summarize a Long Thread or Conversation
+category: Communication / Writing
+---
+I received a long message, email chain, or conversation and I need to understand it quickly and know how to respond.
+
+**Paste the thread or message here:**
+[paste]
+
+Please:
+1. Summarize the key points in 3–5 bullet points
+2. Tell me what they are expecting from me (if anything)
+3. Suggest how I should respond — tone, length, and what to cover
+4. Flag anything urgent or important I should not miss
 
 ===
